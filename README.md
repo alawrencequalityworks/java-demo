@@ -1,1 +1,1 @@
-# java-demo
+# JavaScript Demo for Benchmark
